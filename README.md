@@ -1,9 +1,4 @@
 # hello-world
 My first repository
-
-Dear all,
-
-I rock!!!
-
-Regards,
-Saloni
+My second repo
+First commit
