@@ -12,4 +12,4 @@ DID THE CHANGES WORK ACTUALLY
 =======
 this commit works but not the other way around 
 >>>>>>> 081842221e2e0080f9dd5c77ecc55432285834f8
-This is wrong 
+i dont know how this thing works 
