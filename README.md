@@ -13,3 +13,4 @@ DID THE CHANGES WORK ACTUALLY
 this commit works but not the other way around 
 >>>>>>> 081842221e2e0080f9dd5c77ecc55432285834f8
 i dont know how this thing works 
+are you sure about life noww? maybe and maybe not 
